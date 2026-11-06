@@ -17,7 +17,5 @@ const {
   direccion: { ciudad, pais }
 } = usuario;
 
-
 console.log(usuario.presentarse());
-
 console.log(`Variables independientes extraídas: Ciudad -> ${ciudad}, País -> ${pais}`);
