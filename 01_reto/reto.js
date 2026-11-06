@@ -4,7 +4,7 @@ const usuario = {
   edad: 25,
   direccion: {
     calle: "Calle 200 # 14-50",
-    ciudad: "Floridablanca",
+    ciudad: "Bucaramanga",
     pais: "Colombia"
   },
 
